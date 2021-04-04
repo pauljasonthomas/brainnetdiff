@@ -4,3 +4,4 @@ brainnetdiff/__pycache__/
 .DS_Store
 .ipynb_checkpoints*
 data/*
+nilearn_mod/*
